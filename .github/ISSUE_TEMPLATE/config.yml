@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Roadmap board
+    url: https://github.com/orgs/Disassembly-AI/projects/2
+    about: See planned work across all repos before filing.
